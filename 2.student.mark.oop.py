@@ -75,5 +75,4 @@ lab 2:
     using oop principles
     structured around objects, encapsulate both data and methods that operate on that data
     data use encapsulate within object 
-    
 """
